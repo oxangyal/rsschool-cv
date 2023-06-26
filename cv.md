@@ -37,6 +37,7 @@ function doubleChar(str) {
    arrResult.push(char, char)
  }
   return arrResult.join('');
+```
 
 ### Education
 
