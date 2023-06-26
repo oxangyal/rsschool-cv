@@ -40,4 +40,6 @@ ______________
 ##**Experience**
 2004-2017 *Business owner/Photographer*
 2017 - current *Relocation consultant* 
-
+______________
+##**Codewars**
+[https://www.codewars.com/users/oxangyal/badges/micro][Codewars score]
