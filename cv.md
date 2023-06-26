@@ -42,11 +42,13 @@ function doubleChar(str) {
 ### Education
 
 1996-2000  Moscow University "Stankin"
+
 2000-2002  Budapest University of Technology
 
 ### Experience
 
 2004-2017  *Business owner/Photographer*
+
 2017 - current *Relocation consultant*  
 
 ### Codewars 
