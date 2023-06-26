@@ -3,19 +3,15 @@
 ## Junior Frontend Developer
 
 Boston, USA
-_____________;
 
 cell:  + 1 (339) 789-6542  
 Email: [oxana@sitenest.net](mailto:oxana@sitenest.net)
 
 ![selfpic](./img/selfpic.jpg)
-___________;
 
 ### About me
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
-
-___________;
 
 ### Skills
 
@@ -27,7 +23,6 @@ ___________;
 * Git, GitHub
 * Adobe Photoshop
 * SQL
-___________;
 
 ### Code example
 
@@ -42,17 +37,17 @@ function doubleChar(str) {
    arrResult.push(char, char)
  }
   return arrResult.join('');
-______________;
+
 ### Education
 
 1996-2000  Moscow University "Stankin"
 2000-2002  Budapest University of Technology
-______________;
+
 ### Experience
 
 2004-2017  *Business owner/Photographer*
 2017 - current *Relocation consultant*  
-______________;
+
 ### Codewars 
 
 [Codewars score](https://www.codewars.com/users/oxangyal/badges/micro)
